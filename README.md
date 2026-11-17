@@ -1,4 +1,7 @@
-# Breast Cancer Subtype Discovery: Gene Data Analysis
+# 🧬 Breast Cancer Subtype Discovery: Gene Data Analysis
+
+![R](https://img.shields.io/badge/R-%E2%89%A5%204.0-276DC3?logo=r&logoColor=white&style=flat-square)
+![Dataset](https://img.shields.io/badge/dataset-METABRIC-orange?style=flat-square)
 
 ## Introduction
 This repository contains the full statistical analysis conducted for the *Statistical Foundations for Data Science* course during my master's degree.
